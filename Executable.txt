@@ -1,0 +1,1 @@
+pyinstaller --windowed --onefile --icon=./logo_srk.ico Anchors.py
